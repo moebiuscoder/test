@@ -1,0 +1,12 @@
+Se deberá generar una aplicación "hello World“ y su proceso de despliegue. Las herramientas, lenguaje y plataforma donde se realice el ejercicio queda a criterio del candidato.
+
+Se contará con 4 días para realizar el ejercicio y se presentará una demo mediante video llamada. El resultado final es parte de la evaluación, pero también se tendrá en cuenta el proceso.
+
+El proceso de despliegue deberá contar con los siguientes Stage: 
+	 - Descarga de código fuente de repositorio de tipo Git (github, gitlab, etc...)
+	- Stage de compilación.
+	- Despliegue en contenedor (Recomendamos el uso del toolkit s2i pero no es excluyente).
+   
+2 - La aplicación desplegada deberá mostrar en un browser:
+	- Una imagen 
+	- El texto "Esta es una aplicación realizada para examen de selección"
